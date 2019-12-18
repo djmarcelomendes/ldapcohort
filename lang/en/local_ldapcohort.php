@@ -27,7 +27,7 @@
 $string['pluginname'] = 'Moodle LDAP Cohort';
 
 $string['ldap_verify_enabled'] = 'Enable LDAP verify';
-$string['ldap_verify_enabled_desc'] = 'This tickbox enables the checking of LDAP profiles and configures Cohort according to the profile found..';
+$string['ldap_verify_enabled_desc'] = 'This tickbox enables the checking of LDAP profiles and configures Cohort according to the profile found.';
 $string['ldap_config_us_mail'] = 'LDAP Connection User';
 $string['ldap_config_us_mail_desc'] = 'Put the LDAP connection user. For example: user@in.domain.com';
 $string['ldap_config_us_pass'] = 'LDAP connection password';
